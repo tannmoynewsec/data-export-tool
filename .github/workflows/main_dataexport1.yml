@@ -69,3 +69,4 @@ jobs:
           app-name: 'dataexport1'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C7AD0915F7D14E24A1B110D7E69C8AA2 }}
+          verbose: true
